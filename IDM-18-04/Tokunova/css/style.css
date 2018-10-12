@@ -83,6 +83,7 @@ body {
 	background-color:#FFA9FA;
 	margin:0 -40px -56px -40px;
 	border-radius:0 0 7px 7px;
+	box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
 }
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 
